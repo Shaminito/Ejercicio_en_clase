@@ -1,0 +1,52 @@
+Alumno viejo:
+ANDRES AYALA , expediente: 21821611, año: 1998
+
+Listado de alumnos con expediente par:
+MARIA Torres , expediente: 21940130
+PABLO GONZALEZ , expediente: 21938788
+PABLO POZA , expediente: 21961964
+GABRIEL Estevez , expediente: 21877960
+NICOLAS PEREZ , expediente: 21926730
+VICTOR ARRIBAS , expediente: 21909146
+VICTOR PEREZ , expediente: 21923658
+MARIA ARIZA , expediente: 21941298
+DIEGO MARTIN , expediente: 21903814
+
+Listado de alumnos con expediente impar:
+ANDRES AYALA , expediente: 21821611
+ALVARO Martinez , expediente: 21928787
+PABLO PASCUAL , expediente: 21939149
+VICTOR Cebas , expediente: 21746033
+JOSE VALLE , expediente: 21919855
+ADILEM DOBRAS , expediente: 21911633
+MIGUEL RAMOS , expediente: 21937215
+LETICIA GRUNEIRO , expediente: 21938531
+DAVID SOKOL , expediente: 21923681
+
+Actividad Individual 1:
+Porcentaje de los que entregaron la actividad: 77.7778%
+Porcentaje de los que entregaron la actividad: 22.2222%
+
+Asistencia: 
+Presencial,5 EN TOTAL: 
+PABLO GONZALEZ
+VICTOR Cebas
+VICTOR ARRIBAS
+MARIA ARIZA
+DAVID SOKOL
+
+Hyflex,13 EN TOTAL: 
+ANDRES AYALA
+ALVARO Martinez
+MARIA Torres
+PABLO PASCUAL
+PABLO POZA
+GABRIEL Estevez
+JOSE VALLE
+NICOLAS PEREZ
+ADILEM DOBRAS
+VICTOR PEREZ
+MIGUEL RAMOS
+LETICIA GRUNEIRO
+DIEGO MARTIN
+
