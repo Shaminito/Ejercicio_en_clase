@@ -1,7 +1,99 @@
-Alumno viejo:
+ALUMNO CON MAYOR EDAD:
 ANDRES AYALA , expediente: 21821611, año: 1998
 
-Listado de alumnos con expediente par:
+ALUMNOS QUE CUMPLEN AÑOS ESTE MES:
+Nombre: ANDRES
+Mes de nacimiento: 9
+Año de nacimiento: 1998
+Edad: 22
+
+Nombre: ALVARO
+Mes de nacimiento: 10
+Año de nacimiento: 2001
+Edad: 19
+
+Nombre: MARIA
+Mes de nacimiento: 3
+Año de nacimiento: 2001
+Edad: 19
+
+Nombre: PABLO
+Mes de nacimiento: 1
+Año de nacimiento: 1999
+Edad: 21
+
+Nombre: PABLO
+Mes de nacimiento: 5
+Año de nacimiento: 1999
+Edad: 21
+
+Nombre: PABLO
+Mes de nacimiento: 9
+Año de nacimiento: 2001
+Edad: 19
+
+Nombre: VICTOR
+Mes de nacimiento: 7
+Año de nacimiento: 1999
+Edad: 21
+
+Nombre: GABRIEL
+Mes de nacimiento: 4
+Año de nacimiento: 1999
+Edad: 21
+
+Nombre: JOSE
+Mes de nacimiento: 9
+Año de nacimiento: 1999
+Edad: 21
+
+Nombre: NICOLAS
+Mes de nacimiento: 6
+Año de nacimiento: 2001
+Edad: 19
+
+Nombre: VICTOR
+Mes de nacimiento: 4
+Año de nacimiento: 2001
+Edad: 19
+
+Nombre: ADILEM
+Mes de nacimiento: 12
+Año de nacimiento: 2000
+Edad: 19
+
+Nombre: VICTOR
+Mes de nacimiento: 7
+Año de nacimiento: 2001
+Edad: 19
+
+Nombre: MIGUEL
+Mes de nacimiento: 11
+Año de nacimiento: 2001
+Edad: 19
+
+Nombre: LETICIA
+Mes de nacimiento: 8
+Año de nacimiento: 2001
+Edad: 19
+
+Nombre: MARIA
+Mes de nacimiento: 4
+Año de nacimiento: 2001
+Edad: 19
+
+Nombre: DAVID
+Mes de nacimiento: 4
+Año de nacimiento: 1999
+Edad: 21
+
+Nombre: DIEGO
+Mes de nacimiento: 8
+Año de nacimiento: 2001
+Edad: 19
+
+
+LISTADO DE ALUMNOS CON EXPEDIENTE PAR:
 MARIA Torres , expediente: 21940130
 PABLO GONZALEZ , expediente: 21938788
 PABLO POZA , expediente: 21961964
@@ -12,7 +104,7 @@ VICTOR PEREZ , expediente: 21923658
 MARIA ARIZA , expediente: 21941298
 DIEGO MARTIN , expediente: 21903814
 
-Listado de alumnos con expediente impar:
+LISTADO DE ALUMNOS CON EXPEDIENTE IMPAR:
 ANDRES AYALA , expediente: 21821611
 ALVARO Martinez , expediente: 21928787
 PABLO PASCUAL , expediente: 21939149
@@ -23,19 +115,19 @@ MIGUEL RAMOS , expediente: 21937215
 LETICIA GRUNEIRO , expediente: 21938531
 DAVID SOKOL , expediente: 21923681
 
-Actividad Individual 1:
+ACTIVIDAD INDIVIDUAL 1:
 Porcentaje de los que entregaron la actividad: 77.7778%
 Porcentaje de los que entregaron la actividad: 22.2222%
 
-Asistencia: 
-Presencial,5 EN TOTAL: 
+ASISTENCIA: 
+PRESENCIAL,5 EN TOTAL: 
 PABLO GONZALEZ
 VICTOR Cebas
 VICTOR ARRIBAS
 MARIA ARIZA
 DAVID SOKOL
 
-Hyflex,13 EN TOTAL: 
+HYFLEX,13 EN TOTAL: 
 ANDRES AYALA
 ALVARO Martinez
 MARIA Torres
