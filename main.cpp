@@ -217,7 +217,7 @@ void alumnoViejo(ofstream &fout) {
     try{
         alumno *aux = lista;
         alumno *alumnoViejo;
-        int oldYear = 9999;
+        int oldYear = tiempo ->tm_year+1900;
 
         while(aux != NULL){
             if(oldYear > aux -> year){
